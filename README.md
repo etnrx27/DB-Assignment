@@ -1,5 +1,23 @@
-# DB-Assignment
-Final Assignment to build a prototype database for a fake company for 'Databases' Module Taken in NP Semester 2.
-# What is Required
-To build our own database and to create our own queries to test the database. Please refer to the document, "DB Oct2020 3. Asg - Assignment Writeup - v2.0 (1).doc", 
-to find out more information about the assignment
+# MokeFoods_Database
+A prototype database and an Entity-Relationship (ER) model for a fake company called "MokeFoods" was created.
+
+# Features
+1) Completed ER Model (Conceptual Design)
+2) List of mapped Relations (Logical Design)
+3) Data Dictionary (Physical Design)
+4) Listing of SQL statements for database table creation with insertion of values
+5) Content of all tables
+6) Examples of queries and corresponding SQLs for the correct outputs 
+
+# Materials 
+1) MokeFoods_Database_Slides.pptx
+2) MokeFoods_Database_Report.docx
+3) MokeFoods_Database.sql
+
+# Contributors
+1) Neo Rei Siang Edward
+2) Yang Molei
+3) Sng Wei Liang Jeremy 
+4) Evan Ong Shui Fu 
+5) Chiang Jun Han 
+
